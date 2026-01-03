@@ -102,5 +102,5 @@ Besides the main RealSense project,this repo includes many smaller scripts creat
 
 ### 👤 Author
 
-**Developed** by Rassul Zeynulla
-**Focus:** Computer Vision,Robotics,Real-Time Perception
+- **Developed** by Rassul Zeynulla
+- **Focus:** Computer Vision,Robotics,Real-Time Perception
