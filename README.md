@@ -71,10 +71,16 @@ This repository also contains training artifacts/visuals such as:
 ---
 ## 📷 Results & Visuals
 
-<img src="images/block_diagram.png" width="600" />
-<img src="images/test_resualt.png" width="500" />
-<img src="images/confusion_matrix.png" width="500" />
-<img src="images/train_loss.png" width="500" />
+<table>
+  <tr>
+    <td><img src="images/block_diagram.png" width="350"/></td>
+    <td><img src="images/test_resualt.png" width="350"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/confusion_matrix.png" width="350"/></td>
+    <td><img src="images/train_loss.png" width="350"/></td>
+  </tr>
+</table>
 
 ---
 
