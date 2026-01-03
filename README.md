@@ -69,7 +69,7 @@ This repository also contains training artifacts/visuals such as:
 - training curves (loss,precision/recall,mAP)
 
 > If you want these images to appear in the README nicely,put them in `assets/` and link them like:
-> `![Training Curves](assets/results.png)`
+> `![Training Curves](images/train_loss.png)`
 
 ---
 
