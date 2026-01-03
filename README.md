@@ -34,12 +34,12 @@ This workflow is directly useful for:
 
 ## 🔧 Integration Skills Demonstrated
 
-- **Intel RealSense integration:**OpenCV + `pyrealsense2` for color/depth streaming  
-- **Real-time processing:**frame capture + alignment of depth-to-color for correct spatial mapping  
-- **Object detection:**loading and running a YOLO model live,and parsing detections  
-- **3D coordinate extraction:**2D → 3D conversion using depth information  
-- **Validation & error handling:**safe checks when depth is missing/invalid  
-- **Visualization:**overlaying boxes,labels,confidence,and XYZ coordinates for clear feedback
+- **Intel RealSense integration:** OpenCV + `pyrealsense2` for color/depth streaming  
+- **Real-time processing:** frame capture + alignment of depth-to-color for correct spatial mapping  
+- **Object detection:** loading and running a YOLO model live,and parsing detections  
+- **3D coordinate extraction:** 2D → 3D conversion using depth information  
+- **Validation & error handling:** safe checks when depth is missing/invalid  
+- **Visualization:** overlaying boxes,labels,confidence,and XYZ coordinates for clear feedback
 
 ---
 
@@ -95,11 +95,13 @@ If you have a `requirements.txt`:
 ```bash
 pip install -r requirements.txt
 
+---
+
 ### 📁 Repository Notes
 
 Besides the main RealSense project,this repo includes many smaller scripts created during learning and experimentation (different CV ideas,tests,and training attempts).Some folders/files may be prototypes or intermediate versions.
 
 ### 👤 Author
 
-Developed by Rassul Zeynulla
-Focus:Computer Vision,Robotics,Real-Time Perception
+**Developed** by Rassul Zeynulla
+**Focus:** Computer Vision,Robotics,Real-Time Perception
