@@ -92,7 +92,6 @@ This repository also contains training artifacts/visuals such as:
 
 ### Install dependencies
 If you have a `requirements.txt`:
-```bash
 pip install -r requirements.txt
 
 ---
