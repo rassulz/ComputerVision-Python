@@ -68,16 +68,13 @@ This repository also contains training artifacts/visuals such as:
 - confusion matrix
 - training curves (loss,precision/recall,mAP)
 
-> If you want these images to appear in the README nicely,put them in `assets/` and link them like:
-> `![Training Curves](images/train_loss.png)`
-
 ---
 ## 📷 Results & Visuals
 
-<img src="images/block_diagram.png" width="800" />
-<img src="images/test_resualt.png" width="800" />
-<img src="images/confusion_matrix.png" width="600" />
-<img src="images/train_loss.png" width="800" />
+<img src="images/block_diagram.png" width="600" />
+<img src="images/test_resualt.png" width="500" />
+<img src="images/confusion_matrix.png" width="500" />
+<img src="images/train_loss.png" width="500" />
 
 ---
 
