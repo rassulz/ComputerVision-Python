@@ -72,6 +72,14 @@ This repository also contains training artifacts/visuals such as:
 > `![Training Curves](images/train_loss.png)`
 
 ---
+## 📷 Results & Visuals
+
+<img src="images/block_diagram.png" width="800" />
+<img src="images/test_resualt.png" width="800" />
+<img src="images/confusion_matrix.png" width="600" />
+<img src="images/train_loss.png" width="800" />
+
+---
 
 ## 🛠 Tech Stack
 
